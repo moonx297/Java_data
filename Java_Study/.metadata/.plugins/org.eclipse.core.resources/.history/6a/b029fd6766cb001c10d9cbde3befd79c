@@ -1,0 +1,15 @@
+package chap04;
+
+public class CheckOverFlowExample {
+
+	public static void main(String[] args) {
+		try {											//뭔가 에러가 날거같으면 try catch 안에 넣어라. 그러면 해결해 줄것.
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		}
+
+	}
+
+}

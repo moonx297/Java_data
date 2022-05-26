@@ -1,0 +1,23 @@
+package chap02;
+
+public class ByteExample {
+
+	public static void main(String[] args) {
+
+
+		byte var1 = -128;
+		byte var1 = -30;
+		byte var1 = 0;
+		byte var1 = 30;
+		byte var1 = 127;
+//		byte var1 = 128;
+		
+		system.out.println(var1);
+		system.out.println(var2);
+		system.out.println(var3);
+		system.out.println(var4);
+		system.out.println(var5);
+
+	}
+
+}

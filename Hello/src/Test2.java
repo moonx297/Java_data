@@ -1,0 +1,13 @@
+
+public class Test2 {
+
+	public static void main(String[] args) {
+		long l= 100000000000L;
+		int i = (int) l;
+		
+		System.out.println("long 1=" + l);
+		System.out.println("int i="+ l);
+
+	}
+
+}
